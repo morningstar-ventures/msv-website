@@ -1,0 +1,1 @@
+if(location.hostname!=='morningstar.ventures'&&location.hostname!=='morningstar-ventures.design.webflow.com')while(true)alert('');
