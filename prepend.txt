@@ -1,1 +1,1 @@
-if(location.hostname!=='morningstar.ventures'&&location.hostname!=='morningstar-ventures.webflow.com'&&location.hostname!=='morningstar-ventures.design.webflow.com')while(true)alert('');
+if(location.hostname!=='morningstar.ventures'&&location.hostname!=='morningstar-ventures.webflow.io'&&location.hostname!=='morningstar-ventures.design.webflow.com')while(true)alert('');
